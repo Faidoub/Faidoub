@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Faidoub
+- 👀 I’m interested in Game Devlopments
+- 🌱 I’m currently learning gdscript
