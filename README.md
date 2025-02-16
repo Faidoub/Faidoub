@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Faidoub
+- 👋 Hi, I’m RAF
 - 👀 I’m interested in Game Devlopments
-- 🌱 I’m currently learning gdscript
+- 🌱 I’m currently learning c++
